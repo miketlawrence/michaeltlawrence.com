@@ -1,0 +1,18 @@
+body {
+  color: #140A33;
+  font-size: 16px;
+  font-family: Inconsolata;
+  line-height: 1.6em; }
+
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+  font-family: Poppins;
+  font-weight: bold;
+  line-height: 1.25; }
+
+a {
+  color: #3A00E8;
+  text-decoration: underline; }
+
+/*# sourceMappingURL=styles.css.map */

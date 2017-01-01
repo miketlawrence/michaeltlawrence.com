@@ -19,7 +19,7 @@
         {.section website}
           <h1 class="site-title-heading" data-content-field="site-title">
             <a href="/" class="site-title-link">
-              <img src="assets/michael-t-lawrence-logo.svg" />
+              <img src="/assets/michael-t-lawrence-logo.svg" />
             </a>
           </h1>
         {.end}
